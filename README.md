@@ -51,3 +51,5 @@ chmod +x setup.sh
 ## Step 5: Log in with the credentials provided
 
 The setup script will provide a username and password, as well as the URL of your portal, please note that this will be running on port 3000, not port 80.
+
+**test27762@test.com**
